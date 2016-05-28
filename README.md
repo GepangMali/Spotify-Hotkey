@@ -18,7 +18,8 @@ To use this script with default keys:
 
 (The default keys are ScrollLock for volume down, Pause/Break for volume up)
 
+
 To run a .ahk file:
-1. Download the version of AutoHotKey attached as a zip folder named "AutoHotkey112400.zip"
-2. Run the .exe inside.
-3. Run the your .ahk file.
+ 1. Download the version of AutoHotKey attached as a zip folder named "AutoHotkey112400.zip"
+ 2. Run the .exe inside.
+ 3. Run the your .ahk file.
