@@ -21,5 +21,6 @@ To use this script with default keys:
 
 To run a .ahk file:
  1. Download the version of AutoHotKey attached as a zip folder named "AutoHotkey112400.zip"
- 2. Run the .exe inside.
- 3. Run the your .ahk file.
+ 2. Place the .exe from this folder in the same folder as your .ahk
+ 3. Drag your .ahk and drop it into the .exe file.
+ 4. The script should now be running check your system tray for the AutoHotKey logo.
