@@ -16,4 +16,5 @@ To use this script with default keys:
  1. Copy Example into a new text file.
  2. Save the file as a .ahk
  3. All done, now run the file with Spotify maximised in the background (As in do not minimise Spotify but rather maximise another window on top).
+
 (The default keys are ScrollLock for volume down, Pause/Break for volume up)
