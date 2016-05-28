@@ -1,7 +1,6 @@
 # Spotify-Hotkey
 A simple Auto-Hotkey script for global volume control keys for Spotify.
 
-
 This script requires AutoHotKey to be installed on the machine.
 For a quick & easy get started guide on how to use AutoHotKey see: https://autohotkey.com/docs/Tutorial.htm
 
@@ -18,3 +17,8 @@ To use this script with default keys:
  3. All done, now run the file with Spotify maximised in the background (As in do not minimise Spotify but rather maximise another window on top).
 
 (The default keys are ScrollLock for volume down, Pause/Break for volume up)
+
+To run a .ahk file:
+1. Download the version of AutoHotKey attached as a zip folder named "AutoHotkey112400.zip"
+2. Run the .exe inside.
+3. Run the your .ahk file.
